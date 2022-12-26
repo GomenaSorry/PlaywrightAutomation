@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GomenaSorry/PlaywrightSample/issues"
   },
-  "homepage": "https://github.com/GomenaSorry/PlaywrightSample#readme"
+  "homepage": "https://github.com/GomenaSorry/PlaywrightSample#readme",
+  "devDependencies": {
+    "playwright": "^1.29.1"
+  }
 }
