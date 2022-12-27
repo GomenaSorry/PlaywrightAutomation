@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/GomenaSorry/PlaywrightSample#readme",
   "devDependencies": {
+    "@playwright/test": "^1.29.1",
     "playwright": "^1.29.1",
     "prettier": "^2.8.1"
   }
