@@ -3,6 +3,8 @@ import { PlaywrightTestConfig } from "@playwright/test"
 const config: PlaywrightTestConfig = {
     timeout: 60000,
     retries: 0,
+    // target folder
+    testDir:'tests/tips',
     use: {
         headless: true,
         viewport: {
